@@ -18,7 +18,7 @@ Tor Browser ile bağlantığınızda gerçek IP'niz gözükmez. Node olarak adla
 
 ### Deep Web Türkçe Sayfalara Erişim
 
-> **Not:** Deep Web'in kullanımı diğer ülkelere nazaran Türkiye'de hala yaygın değildir. 2020 itibariyle erişilebilen web sayfalarını ekliyorum.
+> **Not:** Deep Web'in kullanımı diğer ülkelere nazaran Türkiye'de hala yaygın değildir. 2020 itibariyle erişilebilen web sayfaları;
 
 1) Tahkikat Türk DarkNET Forumu: Özgürce sohbet edebileceğiniz, alışveriş yapabileceğiniz bir Türk web sayfası.  http://tahkikatxxnb6nohori6c2ftbl2wqrrb2htcfdtptvwovy75dcssaqid.onion/
 
