@@ -15,3 +15,15 @@ Tor Browser ile bağlantığınızda gerçek IP'niz gözükmez. Node olarak adla
 | Bilgileriniz sızmaz | DNS veya IP sızma ihtimali vardır |
 | Nispeten yavaştır | Tor'a göre hızlıdır |
 | Uçtan uça şifrelidir | Sağlayıcı hareketinizi izleyebilir |
+
+### Deep Web Türkçe Sayfalara Erişim
+
+> **Not:** Deep Web'in kullanımı diğer ülkelere nazaran Türkiye'de hala yaygın değildir. 2020 itibariyle erişilebilen web sayfalarını ekliyorum.
+
+1) Tahkikat Türk DarkNET Forumu: Özgürce sohbet edebileceğiniz, alışveriş yapabileceğiniz bir Türk web sayfası.  http://tahkikatxxnb6nohori6c2ftbl2wqrrb2htcfdtptvwovy75dcssaqid.onion/
+
+2) 0tt0 Image Hosting Servisi: Deep Web Türkçe resim upload servisi. 
+http://ottoimgbtr5wyhimhv75hz3spn66rjtx6mdcdcmj6cf5queo2wi2bsad.onion/
+
+3) 0tt0 Chat Odası: Kullanıcıları Türk'lerden oluşan bir Hidden Service Chat Sayfası.
+http://ottochatuzidbtjdcp3tvre5tevadvcndbcg2ug5fywhoqbbxdoio3qd.onion/
