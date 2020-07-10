@@ -9,6 +9,9 @@ Tor Browser ile bağlantığınızda gerçek IP'niz gözükmez. Node olarak adla
 #### VPN ile kıyaslandığında Tor Browser kullanımının avantajları ve eksik kaldığı noktalar nelerdir?
 
 | Tor Browser | VPN |
-| ------ | ------ |
+| --------------- | --------------- |
 | Tamamen ücretsizdir | Bazı servisler ücretlidir |
-| Açık kaynak kodludur | Çoğu kaynak kodunu paylaşmaz |
+| Açık kaynak kodludur| Çoğu kaynak kodunu paylaşmaz |
+| Bilgileriniz sızmaz | DNS veya IP sızma ihtimali vardır |
+| Nispeten yavaştır | Tor'a göre hızlıdır |
+| Uçtan uça şifrelidir | Sağlayıcı hareketinizi izleyebilir |
