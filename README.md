@@ -27,5 +27,7 @@ Tor Browser ile bağlantığınızda gerçek IP'niz gözükmez. Node olarak adla
 http://ottoimgbtr5wyhimhv75hz3spn66rjtx6mdcdcmj6cf5queo2wi2bsad.onion/
 ![image](https://raw.githubusercontent.com/DeepWebTurk/Deep-Web-Turkce-Sayfalar/master/images/2.png)
 
-3) 0tt0 Chat Odası: Kullanıcıları Türk'lerden oluşan bir Hidden Service Chat Sayfası.
+3) 0tt0 Chat Odası: Kullanıcıları Türk'lerden oluşan bir Hidden Service Chat Sayfası. 
 http://ottochatuzidbtjdcp3tvre5tevadvcndbcg2ug5fywhoqbbxdoio3qd.onion/
+(Kapanmış, böyle bir sayfa karşılıyor)
+![image](https://raw.githubusercontent.com/DeepWebTurk/Deep-Web-Turkce-Sayfalar/master/images/3.png)
