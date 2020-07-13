@@ -25,6 +25,7 @@ Tor Browser ile bağlantığınızda gerçek IP'niz gözükmez. Node olarak adla
 
 2) 0tt0 Image Hosting Servisi: Deep Web Türkçe resim upload servisi. 
 http://ottoimgbtr5wyhimhv75hz3spn66rjtx6mdcdcmj6cf5queo2wi2bsad.onion/
+![image](https://raw.githubusercontent.com/DeepWebTurk/Deep-Web-Turkce-Sayfalar/master/images/2.png)
 
 3) 0tt0 Chat Odası: Kullanıcıları Türk'lerden oluşan bir Hidden Service Chat Sayfası.
 http://ottochatuzidbtjdcp3tvre5tevadvcndbcg2ug5fywhoqbbxdoio3qd.onion/
